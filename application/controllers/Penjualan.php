@@ -961,8 +961,8 @@ class Penjualan extends CI_Controller {
 					</tfoot>
 				</table>
 				<div style="text-align:center;padding-top:20px;margin-bottom:0px; display: flex; justify-content: center; align-items: center;	">
-					<img src="'.base_url().'/upload/qr.jpg" alt="Description of the image" width="100" height="100" style="margin-right: 10px;">
-					<span>SCAN INI UNTUK TAHU TENTANG DH STORE</span>
+					<img src="'.base_url().'/upload/qr.png" alt="Description of the image" width="100" height="100" style="margin-right: 10px;">
+					<span>SCAN INI UNTUK TAHU TENTANG Hi Gadget!</span>
 				</div>
 				<div style="text-align:center;padding-top:10px;margin-bottom:0px;">
 					<span>BARANG YANG DIBELI TIDAK DAPAT DIKEMBALIKAN</span>
